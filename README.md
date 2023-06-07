@@ -18,7 +18,7 @@ cd to your project root from the console
 ```
 ### Setup database 
 ```
-Create your local database
+Create your local database (There is a testdb sql file under tests)
 Enter your default database information in the Database.php file 
 or 
 Send DB properties as arguments when creating an instance of the Database from index.php.
