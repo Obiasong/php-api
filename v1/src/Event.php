@@ -23,7 +23,7 @@ class Event
      *
      * @OA\Property(
      *   property="string",
-     *   type="name of event",
+     *   type="string",
      *   description="The event name"
      * )
      */

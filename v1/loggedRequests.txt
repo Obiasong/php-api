@@ -4768,3 +4768,405 @@ Request at 2023-06-07 23:11:21
     "REQUEST_TIME": 1686179481
 }
 
+Request at 2023-06-07 23:17:25
+------------------------------------------------------------------------
+
+{}
+
+{
+    "HTTP_HOST": "localhost",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_UPGRADE_INSECURE_REQUESTS": "1",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/114.0.0.0 Safari\/537.36",
+    "HTTP_ACCEPT": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/apng,*\/*;q=0.8,application\/signed-exchange;v=b3;q=0.7",
+    "HTTP_SEC_FETCH_SITE": "none",
+    "HTTP_SEC_FETCH_MODE": "navigate",
+    "HTTP_SEC_FETCH_USER": "?1",
+    "HTTP_SEC_FETCH_DEST": "document",
+    "HTTP_SEC_CH_UA": "\"Not.A\/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\"",
+    "HTTP_SEC_CH_UA_MOBILE": "?0",
+    "HTTP_SEC_CH_UA_PLATFORM": "\"Windows\"",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.9",
+    "PATH": "C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\WireGuard\\;C:\\Program Files (x86)\\dotnet\\;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\ProgramData\\DockerDesktop\\version-bin;C:\\Users\\HP\\scoop\\shims;C:\\Program Files\\Git\\cmd;C:\\Program Files\\nodejs\\;C:\\wamp64\\bin\\php\\php8.1.0;C:\\ProgramData\\ComposerSetup\\bin;C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps",
+    "SystemRoot": "C:\\WINDOWS",
+    "COMSPEC": "C:\\WINDOWS\\system32\\cmd.exe",
+    "PATHEXT": ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC",
+    "WINDIR": "C:\\WINDOWS",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.54 (Win64) PHP\/8.2.0 mod_fcgid\/2.3.10-dev Server at localhost Port 80<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.54 (Win64) PHP\/8.2.0 mod_fcgid\/2.3.10-dev",
+    "SERVER_NAME": "localhost",
+    "SERVER_ADDR": "::1",
+    "SERVER_PORT": "80",
+    "REMOTE_ADDR": "::1",
+    "DOCUMENT_ROOT": "C:\/wamp\/www",
+    "REQUEST_SCHEME": "http",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "C:\/wamp\/www",
+    "SERVER_ADMIN": "wampserver@wampserver.invalid",
+    "SCRIPT_FILENAME": "C:\/wamp\/www\/api\/v1\/index.php",
+    "REMOTE_PORT": "65136",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "",
+    "REQUEST_URI": "\/api\/v1\/",
+    "SCRIPT_NAME": "\/api\/v1\/index.php",
+    "PHP_SELF": "\/api\/v1\/index.php",
+    "REQUEST_TIME_FLOAT": 1686179845.742661,
+    "REQUEST_TIME": 1686179845
+}
+
+Request at 2023-06-07 23:18:08
+------------------------------------------------------------------------
+
+{
+    "term": "e"
+}
+
+{
+    "HTTP_HOST": "localhost",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_SEC_CH_UA": "\"Not.A\/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\"",
+    "HTTP_ACCEPT": "application\/json",
+    "HTTP_SEC_CH_UA_MOBILE": "?0",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/114.0.0.0 Safari\/537.36",
+    "HTTP_SEC_CH_UA_PLATFORM": "\"Windows\"",
+    "HTTP_SEC_FETCH_SITE": "same-origin",
+    "HTTP_SEC_FETCH_MODE": "cors",
+    "HTTP_SEC_FETCH_DEST": "empty",
+    "HTTP_REFERER": "http:\/\/localhost\/api\/v1\/documentation\/",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.9",
+    "PATH": "C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\WireGuard\\;C:\\Program Files (x86)\\dotnet\\;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\ProgramData\\DockerDesktop\\version-bin;C:\\Users\\HP\\scoop\\shims;C:\\Program Files\\Git\\cmd;C:\\Program Files\\nodejs\\;C:\\wamp64\\bin\\php\\php8.1.0;C:\\ProgramData\\ComposerSetup\\bin;C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps",
+    "SystemRoot": "C:\\WINDOWS",
+    "COMSPEC": "C:\\WINDOWS\\system32\\cmd.exe",
+    "PATHEXT": ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC",
+    "WINDIR": "C:\\WINDOWS",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.54 (Win64) PHP\/8.2.0 mod_fcgid\/2.3.10-dev Server at localhost Port 80<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.54 (Win64) PHP\/8.2.0 mod_fcgid\/2.3.10-dev",
+    "SERVER_NAME": "localhost",
+    "SERVER_ADDR": "::1",
+    "SERVER_PORT": "80",
+    "REMOTE_ADDR": "::1",
+    "DOCUMENT_ROOT": "C:\/wamp\/www",
+    "REQUEST_SCHEME": "http",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "C:\/wamp\/www",
+    "SERVER_ADMIN": "wampserver@wampserver.invalid",
+    "SCRIPT_FILENAME": "C:\/wamp\/www\/api\/v1\/index.php",
+    "REMOTE_PORT": "65145",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "term=e",
+    "REQUEST_URI": "\/api\/v1\/?term=e",
+    "SCRIPT_NAME": "\/api\/v1\/index.php",
+    "PHP_SELF": "\/api\/v1\/index.php",
+    "REQUEST_TIME_FLOAT": 1686179888.362655,
+    "REQUEST_TIME": 1686179888
+}
+
+Request at 2023-06-07 23:18:40
+------------------------------------------------------------------------
+
+{
+    "term": "e",
+    "date": "2024-05-01"
+}
+
+{
+    "HTTP_HOST": "localhost",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_SEC_CH_UA": "\"Not.A\/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\"",
+    "HTTP_ACCEPT": "application\/json",
+    "HTTP_SEC_CH_UA_MOBILE": "?0",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/114.0.0.0 Safari\/537.36",
+    "HTTP_SEC_CH_UA_PLATFORM": "\"Windows\"",
+    "HTTP_SEC_FETCH_SITE": "same-origin",
+    "HTTP_SEC_FETCH_MODE": "cors",
+    "HTTP_SEC_FETCH_DEST": "empty",
+    "HTTP_REFERER": "http:\/\/localhost\/api\/v1\/documentation\/",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.9",
+    "PATH": "C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\WireGuard\\;C:\\Program Files (x86)\\dotnet\\;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\ProgramData\\DockerDesktop\\version-bin;C:\\Users\\HP\\scoop\\shims;C:\\Program Files\\Git\\cmd;C:\\Program Files\\nodejs\\;C:\\wamp64\\bin\\php\\php8.1.0;C:\\ProgramData\\ComposerSetup\\bin;C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps",
+    "SystemRoot": "C:\\WINDOWS",
+    "COMSPEC": "C:\\WINDOWS\\system32\\cmd.exe",
+    "PATHEXT": ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC",
+    "WINDIR": "C:\\WINDOWS",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.54 (Win64) PHP\/8.2.0 mod_fcgid\/2.3.10-dev Server at localhost Port 80<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.54 (Win64) PHP\/8.2.0 mod_fcgid\/2.3.10-dev",
+    "SERVER_NAME": "localhost",
+    "SERVER_ADDR": "::1",
+    "SERVER_PORT": "80",
+    "REMOTE_ADDR": "::1",
+    "DOCUMENT_ROOT": "C:\/wamp\/www",
+    "REQUEST_SCHEME": "http",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "C:\/wamp\/www",
+    "SERVER_ADMIN": "wampserver@wampserver.invalid",
+    "SCRIPT_FILENAME": "C:\/wamp\/www\/api\/v1\/index.php",
+    "REMOTE_PORT": "65148",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "term=e&date=2024-05-01",
+    "REQUEST_URI": "\/api\/v1\/?term=e&date=2024-05-01",
+    "SCRIPT_NAME": "\/api\/v1\/index.php",
+    "PHP_SELF": "\/api\/v1\/index.php",
+    "REQUEST_TIME_FLOAT": 1686179920.804472,
+    "REQUEST_TIME": 1686179920
+}
+
+Request at 2023-06-07 23:18:59
+------------------------------------------------------------------------
+
+{
+    "term": "e",
+    "date": "2024-05-011"
+}
+
+{
+    "HTTP_HOST": "localhost",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_SEC_CH_UA": "\"Not.A\/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\"",
+    "HTTP_ACCEPT": "application\/json",
+    "HTTP_SEC_CH_UA_MOBILE": "?0",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/114.0.0.0 Safari\/537.36",
+    "HTTP_SEC_CH_UA_PLATFORM": "\"Windows\"",
+    "HTTP_SEC_FETCH_SITE": "same-origin",
+    "HTTP_SEC_FETCH_MODE": "cors",
+    "HTTP_SEC_FETCH_DEST": "empty",
+    "HTTP_REFERER": "http:\/\/localhost\/api\/v1\/documentation\/",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.9",
+    "PATH": "C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\WireGuard\\;C:\\Program Files (x86)\\dotnet\\;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\ProgramData\\DockerDesktop\\version-bin;C:\\Users\\HP\\scoop\\shims;C:\\Program Files\\Git\\cmd;C:\\Program Files\\nodejs\\;C:\\wamp64\\bin\\php\\php8.1.0;C:\\ProgramData\\ComposerSetup\\bin;C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps",
+    "SystemRoot": "C:\\WINDOWS",
+    "COMSPEC": "C:\\WINDOWS\\system32\\cmd.exe",
+    "PATHEXT": ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC",
+    "WINDIR": "C:\\WINDOWS",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.54 (Win64) PHP\/8.2.0 mod_fcgid\/2.3.10-dev Server at localhost Port 80<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.54 (Win64) PHP\/8.2.0 mod_fcgid\/2.3.10-dev",
+    "SERVER_NAME": "localhost",
+    "SERVER_ADDR": "::1",
+    "SERVER_PORT": "80",
+    "REMOTE_ADDR": "::1",
+    "DOCUMENT_ROOT": "C:\/wamp\/www",
+    "REQUEST_SCHEME": "http",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "C:\/wamp\/www",
+    "SERVER_ADMIN": "wampserver@wampserver.invalid",
+    "SCRIPT_FILENAME": "C:\/wamp\/www\/api\/v1\/index.php",
+    "REMOTE_PORT": "65152",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "term=e&date=2024-05-011",
+    "REQUEST_URI": "\/api\/v1\/?term=e&date=2024-05-011",
+    "SCRIPT_NAME": "\/api\/v1\/index.php",
+    "PHP_SELF": "\/api\/v1\/index.php",
+    "REQUEST_TIME_FLOAT": 1686179939.150774,
+    "REQUEST_TIME": 1686179939
+}
+
+Request at 2023-06-07 23:19:06
+------------------------------------------------------------------------
+
+{
+    "term": "e",
+    "date": "2024-05-11"
+}
+
+{
+    "HTTP_HOST": "localhost",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_SEC_CH_UA": "\"Not.A\/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\"",
+    "HTTP_ACCEPT": "application\/json",
+    "HTTP_SEC_CH_UA_MOBILE": "?0",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/114.0.0.0 Safari\/537.36",
+    "HTTP_SEC_CH_UA_PLATFORM": "\"Windows\"",
+    "HTTP_SEC_FETCH_SITE": "same-origin",
+    "HTTP_SEC_FETCH_MODE": "cors",
+    "HTTP_SEC_FETCH_DEST": "empty",
+    "HTTP_REFERER": "http:\/\/localhost\/api\/v1\/documentation\/",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.9",
+    "PATH": "C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\WireGuard\\;C:\\Program Files (x86)\\dotnet\\;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\ProgramData\\DockerDesktop\\version-bin;C:\\Users\\HP\\scoop\\shims;C:\\Program Files\\Git\\cmd;C:\\Program Files\\nodejs\\;C:\\wamp64\\bin\\php\\php8.1.0;C:\\ProgramData\\ComposerSetup\\bin;C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps",
+    "SystemRoot": "C:\\WINDOWS",
+    "COMSPEC": "C:\\WINDOWS\\system32\\cmd.exe",
+    "PATHEXT": ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC",
+    "WINDIR": "C:\\WINDOWS",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.54 (Win64) PHP\/8.2.0 mod_fcgid\/2.3.10-dev Server at localhost Port 80<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.54 (Win64) PHP\/8.2.0 mod_fcgid\/2.3.10-dev",
+    "SERVER_NAME": "localhost",
+    "SERVER_ADDR": "::1",
+    "SERVER_PORT": "80",
+    "REMOTE_ADDR": "::1",
+    "DOCUMENT_ROOT": "C:\/wamp\/www",
+    "REQUEST_SCHEME": "http",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "C:\/wamp\/www",
+    "SERVER_ADMIN": "wampserver@wampserver.invalid",
+    "SCRIPT_FILENAME": "C:\/wamp\/www\/api\/v1\/index.php",
+    "REMOTE_PORT": "65155",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "term=e&date=2024-05-11",
+    "REQUEST_URI": "\/api\/v1\/?term=e&date=2024-05-11",
+    "SCRIPT_NAME": "\/api\/v1\/index.php",
+    "PHP_SELF": "\/api\/v1\/index.php",
+    "REQUEST_TIME_FLOAT": 1686179946.649651,
+    "REQUEST_TIME": 1686179946
+}
+
+Request at 2023-06-07 23:19:19
+------------------------------------------------------------------------
+
+{
+    "term": "e",
+    "date": "2024-05-17"
+}
+
+{
+    "HTTP_HOST": "localhost",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_SEC_CH_UA": "\"Not.A\/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\"",
+    "HTTP_ACCEPT": "application\/json",
+    "HTTP_SEC_CH_UA_MOBILE": "?0",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/114.0.0.0 Safari\/537.36",
+    "HTTP_SEC_CH_UA_PLATFORM": "\"Windows\"",
+    "HTTP_SEC_FETCH_SITE": "same-origin",
+    "HTTP_SEC_FETCH_MODE": "cors",
+    "HTTP_SEC_FETCH_DEST": "empty",
+    "HTTP_REFERER": "http:\/\/localhost\/api\/v1\/documentation\/",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.9",
+    "PATH": "C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\WireGuard\\;C:\\Program Files (x86)\\dotnet\\;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\ProgramData\\DockerDesktop\\version-bin;C:\\Users\\HP\\scoop\\shims;C:\\Program Files\\Git\\cmd;C:\\Program Files\\nodejs\\;C:\\wamp64\\bin\\php\\php8.1.0;C:\\ProgramData\\ComposerSetup\\bin;C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps",
+    "SystemRoot": "C:\\WINDOWS",
+    "COMSPEC": "C:\\WINDOWS\\system32\\cmd.exe",
+    "PATHEXT": ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC",
+    "WINDIR": "C:\\WINDOWS",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.54 (Win64) PHP\/8.2.0 mod_fcgid\/2.3.10-dev Server at localhost Port 80<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.54 (Win64) PHP\/8.2.0 mod_fcgid\/2.3.10-dev",
+    "SERVER_NAME": "localhost",
+    "SERVER_ADDR": "::1",
+    "SERVER_PORT": "80",
+    "REMOTE_ADDR": "::1",
+    "DOCUMENT_ROOT": "C:\/wamp\/www",
+    "REQUEST_SCHEME": "http",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "C:\/wamp\/www",
+    "SERVER_ADMIN": "wampserver@wampserver.invalid",
+    "SCRIPT_FILENAME": "C:\/wamp\/www\/api\/v1\/index.php",
+    "REMOTE_PORT": "65157",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "term=e&date=2024-05-17",
+    "REQUEST_URI": "\/api\/v1\/?term=e&date=2024-05-17",
+    "SCRIPT_NAME": "\/api\/v1\/index.php",
+    "PHP_SELF": "\/api\/v1\/index.php",
+    "REQUEST_TIME_FLOAT": 1686179959.601812,
+    "REQUEST_TIME": 1686179959
+}
+
+Request at 2023-06-07 23:19:31
+------------------------------------------------------------------------
+
+{
+    "term": "e",
+    "date": "2024-05-13"
+}
+
+{
+    "HTTP_HOST": "localhost",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_SEC_CH_UA": "\"Not.A\/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\"",
+    "HTTP_ACCEPT": "application\/json",
+    "HTTP_SEC_CH_UA_MOBILE": "?0",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/114.0.0.0 Safari\/537.36",
+    "HTTP_SEC_CH_UA_PLATFORM": "\"Windows\"",
+    "HTTP_SEC_FETCH_SITE": "same-origin",
+    "HTTP_SEC_FETCH_MODE": "cors",
+    "HTTP_SEC_FETCH_DEST": "empty",
+    "HTTP_REFERER": "http:\/\/localhost\/api\/v1\/documentation\/",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.9",
+    "PATH": "C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\WireGuard\\;C:\\Program Files (x86)\\dotnet\\;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\ProgramData\\DockerDesktop\\version-bin;C:\\Users\\HP\\scoop\\shims;C:\\Program Files\\Git\\cmd;C:\\Program Files\\nodejs\\;C:\\wamp64\\bin\\php\\php8.1.0;C:\\ProgramData\\ComposerSetup\\bin;C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps",
+    "SystemRoot": "C:\\WINDOWS",
+    "COMSPEC": "C:\\WINDOWS\\system32\\cmd.exe",
+    "PATHEXT": ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC",
+    "WINDIR": "C:\\WINDOWS",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.54 (Win64) PHP\/8.2.0 mod_fcgid\/2.3.10-dev Server at localhost Port 80<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.54 (Win64) PHP\/8.2.0 mod_fcgid\/2.3.10-dev",
+    "SERVER_NAME": "localhost",
+    "SERVER_ADDR": "::1",
+    "SERVER_PORT": "80",
+    "REMOTE_ADDR": "::1",
+    "DOCUMENT_ROOT": "C:\/wamp\/www",
+    "REQUEST_SCHEME": "http",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "C:\/wamp\/www",
+    "SERVER_ADMIN": "wampserver@wampserver.invalid",
+    "SCRIPT_FILENAME": "C:\/wamp\/www\/api\/v1\/index.php",
+    "REMOTE_PORT": "65160",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "term=e&date=2024-05-13",
+    "REQUEST_URI": "\/api\/v1\/?term=e&date=2024-05-13",
+    "SCRIPT_NAME": "\/api\/v1\/index.php",
+    "PHP_SELF": "\/api\/v1\/index.php",
+    "REQUEST_TIME_FLOAT": 1686179971.942286,
+    "REQUEST_TIME": 1686179971
+}
+
+Request at 2023-06-07 23:19:53
+------------------------------------------------------------------------
+
+{}
+
+{
+    "HTTP_HOST": "localhost",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_SEC_CH_UA": "\"Not.A\/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\"",
+    "HTTP_ACCEPT": "application\/json",
+    "HTTP_SEC_CH_UA_MOBILE": "?0",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/114.0.0.0 Safari\/537.36",
+    "HTTP_SEC_CH_UA_PLATFORM": "\"Windows\"",
+    "HTTP_SEC_FETCH_SITE": "same-origin",
+    "HTTP_SEC_FETCH_MODE": "cors",
+    "HTTP_SEC_FETCH_DEST": "empty",
+    "HTTP_REFERER": "http:\/\/localhost\/api\/v1\/documentation\/",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.9",
+    "PATH": "C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\WireGuard\\;C:\\Program Files (x86)\\dotnet\\;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\ProgramData\\DockerDesktop\\version-bin;C:\\Users\\HP\\scoop\\shims;C:\\Program Files\\Git\\cmd;C:\\Program Files\\nodejs\\;C:\\wamp64\\bin\\php\\php8.1.0;C:\\ProgramData\\ComposerSetup\\bin;C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps",
+    "SystemRoot": "C:\\WINDOWS",
+    "COMSPEC": "C:\\WINDOWS\\system32\\cmd.exe",
+    "PATHEXT": ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC",
+    "WINDIR": "C:\\WINDOWS",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.54 (Win64) PHP\/8.2.0 mod_fcgid\/2.3.10-dev Server at localhost Port 80<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.54 (Win64) PHP\/8.2.0 mod_fcgid\/2.3.10-dev",
+    "SERVER_NAME": "localhost",
+    "SERVER_ADDR": "::1",
+    "SERVER_PORT": "80",
+    "REMOTE_ADDR": "::1",
+    "DOCUMENT_ROOT": "C:\/wamp\/www",
+    "REQUEST_SCHEME": "http",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "C:\/wamp\/www",
+    "SERVER_ADMIN": "wampserver@wampserver.invalid",
+    "SCRIPT_FILENAME": "C:\/wamp\/www\/api\/v1\/index.php",
+    "REMOTE_PORT": "65163",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "",
+    "REQUEST_URI": "\/api\/v1\/",
+    "SCRIPT_NAME": "\/api\/v1\/index.php",
+    "PHP_SELF": "\/api\/v1\/index.php",
+    "REQUEST_TIME_FLOAT": 1686179993.138348,
+    "REQUEST_TIME": 1686179993
+}
+
