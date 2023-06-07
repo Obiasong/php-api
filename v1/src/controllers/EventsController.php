@@ -34,22 +34,7 @@ class EventsController
      *   )
      * ),
      * @OA\Response(response="200", description="OK - List of Events",
-     *
-     * content={
-     *             @OA\MediaType(
-     *                 mediaType="application/json",
-     *                 @OA\Schema(
-     *                     example={
-     *                         "id": 1,
-     *                         "name": "name of event",
-     *                         "city": "city of event",
-     *                         "country": "country of event",
-     *                         "startDate": "2021-01-01",
-     *                         "endDateDate": "2021-01-01"
-     *                     }
-     *                 )
-     *             )
-     *         }
+     * @OA\JsonContent(ref="#/components/schemas/Event"),
      * ),
      * @OA\Response(response="422", description="Unprocessable Entity")
      * )

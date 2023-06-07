@@ -11,7 +11,7 @@ class Event
      *
      * @OA\Property(
      *   property="id",
-     *   type="string",
+     *   type="integer",
      *   description="The event id"
      * )
      */
@@ -21,8 +21,8 @@ class Event
      * @var string
      *
      * @OA\Property(
-     *   property="name",
-     *   type="string",
+     *   property="string",
+     *   type="name of event",
      *   description="The event name"
      * )
      */
